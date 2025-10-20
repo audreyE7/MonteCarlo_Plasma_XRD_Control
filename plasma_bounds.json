@@ -1,0 +1,24 @@
+{
+  "current_A": [
+    0.8,
+    1.8
+  ],
+  "pressure_Torr": [
+    0.2,
+    1.2
+  ],
+  "h2_flow_sccm": [
+    10,
+    120
+  ],
+  "exposure_s": [
+    60,
+    900
+  ],
+  "oxygen_ppm": [
+    1,
+    60
+  ],
+  "samples": 4000,
+  "random_seed": 42
+}
